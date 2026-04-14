@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Sajib;Full+Stack+Web+Developer;WordPress+%26+SEO+Expert;5%2B+Years+of+Experience;Building+Fast+%26+Scalable+Web+Apps+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=SajibWh0&color=00d9ff&style=flat-square&label=Profile+Views" />
-[![GitHub followers](https://img.shields.io/github/followers/SajibWh0?label=Followers&style=flat-square&color=00d9ff)](https://github.com/SajibWh0)
+
 
 </div>
 

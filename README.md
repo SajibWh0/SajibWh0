@@ -125,9 +125,6 @@ const Sajib = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SajibWh0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajibWh0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 <div align="center">
@@ -136,15 +133,6 @@ const Sajib = {
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SajibWh0&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 

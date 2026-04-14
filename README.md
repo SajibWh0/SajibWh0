@@ -11,26 +11,25 @@
 
 ## 🧑‍💻 About Me
 
-const Sajib = {
-  username:      "SajibWh0",
-  location:      "Savar, Bangladesh 🇧🇩",
-  experience:    "5+ Years of Breaking & Building the Web",
+### 🧑‍💻 About Me
 
-  expertise: [
-    "Full Stack Web Development",
-    "WordPress Wizardry 🧙",
-    "SEO That Actually Works 📈",
-    "REST API Design & Integration",
-    "Database Architecture & Optimization",
-    "Server Whispering (NGINX + VPS)",
-  ],
+| | |
+|---|---|
+| 👤 **Username** | SajibWh0 |
+| 📍 **Location** | Savar, Bangladesh 🇧🇩 |
+| 💼 **Experience** | 5+ Years of Breaking & Building the Web |
+| 🔭 **Currently Building** | High-performance web solutions that rank & scale |
+| 🌱 **Currently Learning** | Cloud Architecture · AI Integration · DevOps |
+| 💬 **Philosophy** | Write code humans can read, not just machines |
+| 🏆 **Fun Fact** | Ranked 100+ keywords on Google Page 1 📊 |
 
-  currentlyBuilding: "High-performance web solutions that rank & scale",
-  currentlyLearning: ["Cloud Architecture", "AI Integration", "DevOps"],
-
-  philosophy: "Write code humans can read, not just machines.",
-  funFact:    "Ranked 100+ keywords on Google Page 1. Numbers don't lie. 📊",
-};
+**🚀 Expertise:**
+- 🌐 Full Stack Web Development
+- 🎨 WordPress Development & Customization
+- 🔍 SEO Strategy & Technical SEO
+- ⚙️ REST API Design & Integration
+- 🗄️ Database Architecture & Optimization
+- 🖥️ Server Management & Deployment (NGINX)
 ---
 
 ## 🚀 What I Do

@@ -11,26 +11,24 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
 const Sajib = {
-  username:      "SajibWh0",
-  location:      "Bangladesh 🇧🇩",
-  experience:    "5+ Years of Professional Development",
+  alias:         "SajibWh0",
+  base:          "Savar, Bangladesh 🇧🇩",
+  yearsInTheGame: 5,
 
-  expertise: [
-    "Full Stack Web Development",
-    "WordPress Development & Customization",
-    "SEO Strategy & Technical SEO",
-    "REST API Design & Integration",
-    "Database Architecture & Optimization",
-    "Server Management & Deployment (NGINX)",
+  whatIDo: [
+    "🌐 Full Stack Web Dev (PHP · Vue · Node · React)",
+    "🎨 Custom WordPress Themes & Plugins",
+    "🔍 SEO Strategy that gets you to Page 1",
+    "⚙️  REST APIs · MySQL · Supabase · Firebase",
+    "🚀 VPS · NGINX · Docker · GitHub Actions",
   ],
 
-  currentlyWorking: "Building high-performance web solutions",
-  currentlyLearning: ["Cloud Architecture", "AI Integration", "DevOps"],
+  currentMission:  "Building fast, scalable apps that dominate search",
+  unlocking:       ["Cloud Architecture ☁️", "AI Integration 🤖", "DevOps 🔧"],
 
-  philosophy: "Write code that humans can read, not just machines.",
-  funFact:    "I've ranked 50+ websites on Google Page 1. 📈"
+  philosophy:  "Clean code. Fast sites. Real results.",
+  achievement: "50+ sites shipped · 100+ Page 1 rankings 🏆",
 };
 ```
 

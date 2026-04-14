@@ -30,7 +30,6 @@ const Sajib = {
   philosophy:  "Clean code. Fast sites. Real results.",
   achievement: "50+ sites shipped · 100+ Page 1 rankings 🏆",
 };
-```
 
 ---
 

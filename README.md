@@ -11,11 +11,12 @@
 
 ## 🧑‍💻 About Me
 
+```javascript
 const Sajib = {
   username:      "SajibWh0",
   location:      "Bangladesh 🇧🇩",
   experience:    "5+ Years of Professional Development",
-
+ 
   expertise: [
     "Full Stack Web Development",
     "WordPress Development & Customization",
@@ -24,16 +25,17 @@ const Sajib = {
     "Database Architecture & Optimization",
     "Server Management & Deployment (NGINX)",
   ],
-
+ 
   currentlyWorking: "Building high-performance web solutions",
   currentlyLearning: ["Cloud Architecture", "AI Integration", "DevOps"],
-
+ 
   philosophy: "Write code that humans can read, not just machines.",
   funFact:    "I've ranked 50+ websites on Google Page 1. 📈"
 };
+```
 ---
 
-## 🚀 What I Do
+## 🚀 What I Do?
 
 <table>
   <tr>

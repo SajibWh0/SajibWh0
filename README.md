@@ -33,44 +33,6 @@ const Sajib = {
   funFact:    "I've ranked 50+ websites on Google Page 1. 📈"
 };
 ```
----
-
-## 🚀 What I Do?
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-
-### 🌐 Web Development
-- Full Stack Web Apps
-- Custom PHP & Node.js backends
-- Vue.js & JavaScript frontends
-- REST API development
-- Responsive & mobile-first design
-
-</td>
-    <td valign="top" width="33%">
-
-### 🎨 WordPress Expert
-- Custom Theme Development
-- Plugin Development & Customization
-- WooCommerce Stores
-- Performance Optimization
-- Website Migration & Security
-
-</td>
-    <td valign="top" width="33%">
-
-### 📈 SEO Specialist
-- Technical SEO Audits
-- On-Page & Off-Page SEO
-- Core Web Vitals Optimization
-- Keyword Research & Strategy
-- Schema Markup & Structured Data
-
-</td>
-  </tr>
-</table>
 
 ---
 
